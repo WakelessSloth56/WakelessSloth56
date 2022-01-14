@@ -1,2 +1,1 @@
-| <a href="https://github.com/WakelessSloth56"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=WakelessSloth56&include_all_commits=true&hide=contribs&show_icons=true&hide_border=true" /></a> | <a href="https://github.com/WakelessSloth56"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakelessSloth56&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=WakelessSloth56&include_all_commits=true&hide=stars&show_icons=true&cache_seconds=1800" />
